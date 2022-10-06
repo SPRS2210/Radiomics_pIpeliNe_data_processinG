@@ -3,7 +3,7 @@ A software RING enough researchers to analyse radiomics data with code-free. RIN
 
 How to use this software?
 
-	Download sources in release.
+	Download sources from releases.
 
 	Unzip the downloaded software package, and then double click the "RING_UI.exe" to run it.
 	
